@@ -5,6 +5,11 @@ export const environment = {
   baseAPIUrlImage: 'paste your image API URL',//your image microsrevice api
   baseAPIUrlNotification: "http://localhost:3002/v1/",
   portalTitle: 'FCWR',
+  DEFAULT_PASSWORD: "String@123",
+  DEFAULT_OTP: "1234",
+  ACCESS_KEY_ID: AKIATG3XIHMVG5ASSYU4,
+  SECRET_ACCESS_KEY: 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
+
 };
 
 /*
